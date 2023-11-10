@@ -7,7 +7,7 @@ package practica2;
 import java.util.Scanner;
 /**
  *
- * @author Samuel Arriaga
+ * @author zSamuel002
  */
 public class Practica2 {
     public static int suma (int a, int b, int res){
