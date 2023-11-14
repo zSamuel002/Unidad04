@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Usuario
+ * @author zSamuel002
  */
 public class Practica {
 //Metodo calcular consumo de agua por casa
